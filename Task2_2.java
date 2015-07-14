@@ -1,6 +1,6 @@
 package home02;
 
-public class Task2_2 {
+public class Task2_2 {//
     public static void main(String[] args) {
         ToDec toDec=new ToDec();
 

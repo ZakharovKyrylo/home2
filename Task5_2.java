@@ -4,7 +4,7 @@ import java.util.Random;
 
 
 public class Task5_2 {
-
+//
     public static void main(String[] args) {
         Random r=new Random();
         int[][] mas=new int[7][4];

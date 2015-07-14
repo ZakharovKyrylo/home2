@@ -14,7 +14,7 @@ public class Task3 {
             else  dec= (int) (dec+Math.pow((strToInt[i]*2),i));
 
         }
-        return dec;
+        return dec;//
     }
 
     public static void main(String[] args) {

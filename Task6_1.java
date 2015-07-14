@@ -17,5 +17,5 @@ public class Task6_1 {
         Integer num=scanner.nextInt();
         System.out.println();
         System.out.println(task6_1.summ(num));
-    }
+    }//
 }
