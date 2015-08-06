@@ -1,4 +1,4 @@
-package home02;
+package org.sourceit.zakharov.home02;
 
 public class Task3_2 extends Task2_2 {
 
@@ -9,4 +9,3 @@ public class Task3_2 extends Task2_2 {
 
     }
 }
-//

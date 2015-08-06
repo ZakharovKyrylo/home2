@@ -1,4 +1,4 @@
-package home02;
+package org.sourceit.zakharov.home02;
 
 public class Task1 {
 
@@ -11,7 +11,7 @@ public class Task1 {
         for (int i = 0;i<10 ; i++) {
             num = 10*num + bin[9-i];
         }
-        return num;//
+        return num;
     }
     int toOct(int num){
         int[] oct = new int[10];

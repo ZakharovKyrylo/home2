@@ -1,8 +1,8 @@
-package home02;
+package org.sourceit.zakharov.home02;
 
 import java.util.Scanner;
 
-public class Task6_2 {//
+public class Task6_2 {
 
 
 

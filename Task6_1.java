@@ -1,4 +1,4 @@
-package home02;
+package org.sourceit.zakharov.home02;
 
 import java.util.Scanner;
 
@@ -17,5 +17,5 @@ public class Task6_1 {
         Integer num=scanner.nextInt();
         System.out.println();
         System.out.println(task6_1.summ(num));
-    }//
+    }
 }

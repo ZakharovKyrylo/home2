@@ -1,4 +1,4 @@
-package home02;
+package org.sourceit.zakharov.home02;
 
 import java.util.Random;
 
@@ -13,5 +13,5 @@ public class Task5_1 {
                 mas[i][y]=r.nextInt(89)+10;
                 System.out.println("mas[" + (i+1) + "][" + (y+1) + "] = " + mas[i][y]);
             }
-    }//
+    }
 }

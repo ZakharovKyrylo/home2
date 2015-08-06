@@ -1,4 +1,4 @@
-package home02;
+package org.sourceit.zakharov.home02;
 
 public class Task4 {
 
@@ -15,7 +15,7 @@ public class Task4 {
 
         }
         return dec;
-    }//
+    }
 
     public static void main(String[] args) {
         Task3 task3=new Task3();

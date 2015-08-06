@@ -1,4 +1,4 @@
-package home02;
+package org.sourceit.zakharov.home02;
 
 public class Task2 {
 
@@ -13,7 +13,7 @@ public class Task2 {
                 if((i==0)&(strToInt[i] == 0)) dec = 0;
                 else  dec= (int) (dec+Math.pow((strToInt[i]*2),i));
             }
-            return dec;//
+            return dec;
     }
 
     public static void main(String[] args) {
